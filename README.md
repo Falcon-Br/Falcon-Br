@@ -10,9 +10,9 @@ Me chamo Ádrio. Sou estudante de Engenharia da Computação.  Amante da Tecnolo
  - [x] HTML 
  - [x] CSS  
  - [ ] ReactJs :lock:
- - [ ] NodeJs :lock:
+ - [X] NodeJs 
  - [ ] MongoDB :lock:
- - [ ] React Native :lock:
+ - [X] React Native 
 
 :speech_balloon: Você consegue me achar por aqui :arrow_down:
 
