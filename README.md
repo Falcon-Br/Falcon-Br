@@ -2,8 +2,8 @@
 
 Me chamo Ádrio. Sou estudante de Engenharia da Computação.  Amante da Tecnologia e Desenvolvimento de Software. Buscando a primeira oportunidade para no futuro ser um **FullStack Developer**.
 
- ![Ádrio Falcão GitHub stats](https://github-readme-stats.vercel.app/api?username=Falcon-Br&show_icons=true&theme=tokyonight)
- [![Ádrio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falcon-Br&layout=compact&theme=tokyonight)](https://github.com/Falcon-Br/github-readme-stats)
+ ![Ádrio Falcão GitHub stats](https://readmestats.999857.xyz/api?username=Falcon-Br&show_icons=true&theme=tokyonight)
+ [![Ádrio's Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Falcon-Br&layout=compact&theme=tokyonight)](https://github.com/Falcon-Br/github-readme-stats)
 
 ### Stack de Tecnologia Principal
 <div style="display: inline_block">
