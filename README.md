@@ -1,50 +1,47 @@
-<img width=100% src="https://github.com/Falcon-Br/Falcon-Br/blob/main/github-header-image.png">
+<img width=100% src="https://github.com/Falcon-Br/Falcon-Br/blob/main/github-header-gif.gif">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=3000&pause=1000&background=65A4FF00&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Full+Stack+Engineer+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Cloud+%E2%80%A2+AI;Building+scalable+APIs%2C+distributed+systems+and+modern+web+applications.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=2000&pause=3000&color=C82276&background=00778000&center=true&vCenter=true&random=true&width=1000&lines=Full+Stack+Software+Engineer+.NET+%E2%80%A2+React+%E2%80%A2+AWS+%E2%80%A2+AI+Integration)](https://git.io/typing-svg)
 
-<p align="center">
-Full Stack Engineer focused on scalable systems, cloud-native applications and AI-assisted development. Experience designing and building REST APIs, asynchronous workflows, distributed systems and modern web applications using .NET, React and AWS.
-</p>
+
+## 🧑🏻‍💻About me
+<p > I'm a Full Stack Software Engineer with 4+ years of experience building scalable web applications, cloud-native solutions and AI-assisted software. </p>
+<p > My main expertise is designing REST APIs, distributed systems, software architectures, and modern full-stack applications using .NET, React and AWS. </p>
+<p > Currently focused on AI Integration, Retrieval-Augmented Generation (RAG) and LLM-powered software.</p>
+
+## 🛠️ Core Stack
 
 <div align="center">
- 
- ![Ádrio Falcão GitHub stats](https://readmestats.999857.xyz/api?username=Falcon-Br&show_icons=true&theme=tokyonight)
- [![Ádrio's Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Falcon-Br&layout=compact&theme=tokyonight)](https://github.com/Falcon-Br/github-readme-stats)
- 
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-## Core Stack
 
-<p align="center">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-</p>
+## 💼 What I Build
 
-## Engineering Areas
-- Microservices
-- Distributed Systems
-- Event-Driven Architecture
-- CI/CD
-- AI-assisted Development
-- RAG
-- Observability
+- Scalable REST APIs with .NET and ASP.NET Core
+- Cloud-native applications deployed on AWS using Docker and CI/CD pipelines
+- Event-driven systems with asynchronous workflows
+- Full-stack applications with React and TypeScript
+- AI-powered workflows using RAG and LLMs
 
-## Contact
-- 🌐 Portfolio: [adrio.dev](https://adrio.dev)
+## 📞 Contact
 - 💼 LinkedIn: [linkedin.com/in/adrio-falcao](https://linkedin.com/in/adrio-falcao)
+- 🌐 Portfolio: [adrio.dev](https://adrio.dev)
 - 📫 Email: adriofalcao@hotmail.com
