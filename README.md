@@ -1,9 +1,9 @@
+<img width=100% src="https://github.com/Falcon-Br/Falcon-Br/blob/main/line-neon.gif">
 <img width=100% src="https://github.com/Falcon-Br/Falcon-Br/blob/main/github-header-gif.gif">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=2000&pause=3000&color=C82276&background=00778000&center=true&vCenter=true&random=true&width=1000&lines=Full+Stack+Software+Engineer+.NET+%E2%80%A2+React+%E2%80%A2+AWS+%E2%80%A2+AI+Integration)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=2500&pause=3000&color=C82276&background=00778000&center=true&vCenter=true&width=1100&height=25&lines=.NET+Full+Stack+Engineer+%E2%80%A2+C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+React+%E2%80%A2+AWS+%E2%80%A2+AI+Systems)](https://git.io/typing-svg)
 
 ## 🧑🏻‍💻About me
 <p > I'm a Full Stack Software Engineer with 4+ years of experience building scalable web applications, cloud-native solutions and AI-assisted software. </p>
@@ -45,3 +45,5 @@
 - 💼 LinkedIn: [linkedin.com/in/adrio-falcao](https://linkedin.com/in/adrio-falcao)
 - 🌐 Portfolio: [adrio.dev](https://adrio.dev)
 - 📫 Email: adriofalcao@hotmail.com
+
+<img width=100% src="https://github.com/Falcon-Br/Falcon-Br/blob/main/line-neon.gif">
